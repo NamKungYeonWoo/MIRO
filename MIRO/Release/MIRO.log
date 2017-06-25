@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  MIRO.cpp
+  코드를 생성하고 있습니다.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+glut32.lib(glut32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+C:\Users\Jiran\Desktop\MIRO\Release\MIRO.exe : fatal error LNK1281: SAFESEH 이미지를 생성할 수 없습니다.

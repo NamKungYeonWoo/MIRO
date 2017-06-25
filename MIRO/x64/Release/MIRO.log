@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  MIRO.cpp
+MIRO.obj : error LNK2001: FMOD_System_Create 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutPostRedisplay 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutDestroyWindow 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: "public: enum FMOD_RESULT __cdecl FMOD::System::init(int,unsigned int,void *)" (?init@System@FMOD@@QEAA?AW4FMOD_RESULT@@HIPEAX@Z) 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: "public: enum FMOD_RESULT __cdecl FMOD::System::createSound(char const *,unsigned int,struct FMOD_CREATESOUNDEXINFO *,class FMOD::Sound * *)" (?createSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEBDIPEAUFMOD_CREATESOUNDEXINFO@@PEAPEAVSound@2@@Z) 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: FMOD_System_PlaySound 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutSwapBuffers 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutInitDisplayMode 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutInitWindowSize 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutCreateWindow 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutFullScreen 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutKeyboardFunc 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutMotionFunc 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: "public: enum FMOD_RESULT __cdecl FMOD::Sound::release(void)" (?release@Sound@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: "public: enum FMOD_RESULT __cdecl FMOD::System::release(void)" (?release@System@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: "public: enum FMOD_RESULT __cdecl FMOD::System::close(void)" (?close@System@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutDisplayFunc 외부 기호를 확인할 수 없습니다.
+MIRO.obj : error LNK2001: glutMainLoop 외부 기호를 확인할 수 없습니다.
+C:\Users\Jiran\Desktop\MIRO\x64\Release\MIRO.exe : fatal error LNK1120: 18개의 확인할 수 없는 외부 참조입니다.

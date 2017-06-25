@@ -1,0 +1,22 @@
+﻿  MIRO.cpp
+MIRO.obj : error LNK2019: glutInitDisplayMode 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutInitWindowSize 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutMainLoop 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutCreateWindow 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutDestroyWindow 외부 기호(참조 위치: "void __cdecl keyboard_handler(unsigned char,int,int)" (?keyboard_handler@@YAXEHH@Z) 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutPostRedisplay 외부 기호(참조 위치: "void __cdecl keyboard_handler(unsigned char,int,int)" (?keyboard_handler@@YAXEHH@Z) 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutSwapBuffers 외부 기호(참조 위치: "void __cdecl MyDisplay(void)" (?MyDisplay@@YAXXZ) 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutFullScreen 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutDisplayFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutKeyboardFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: glutMotionFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: FMOD_System_Create 외부 기호(참조 위치: "enum FMOD_RESULT __cdecl FMOD::System_Create(class FMOD::System * *)" (?System_Create@FMOD@@YA?AW4FMOD_RESULT@@PEAPEAVSystem@1@@Z) 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: FMOD_System_PlaySound 외부 기호(참조 위치: "void __cdecl sound(void)" (?sound@@YAXXZ) 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::release(void)" (?release@System@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::init(int,unsigned int,void *)" (?init@System@FMOD@@QEAA?AW4FMOD_RESULT@@HIPEAX@Z) 외부 기호(참조 위치: "void __cdecl sound(void)" (?sound@@YAXXZ) 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::close(void)" (?close@System@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::System::createSound(char const *,unsigned int,struct FMOD_CREATESOUNDEXINFO *,class FMOD::Sound * *)" (?createSound@System@FMOD@@QEAA?AW4FMOD_RESULT@@PEBDIPEAUFMOD_CREATESOUNDEXINFO@@PEAPEAVSound@2@@Z) 외부 기호(참조 위치: "void __cdecl sound(void)" (?sound@@YAXXZ) 함수)에서 확인하지 못했습니다.
+MIRO.obj : error LNK2019: "public: enum FMOD_RESULT __cdecl FMOD::Sound::release(void)" (?release@Sound@FMOD@@QEAA?AW4FMOD_RESULT@@XZ) 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+fmodex_vc.lib : warning LNK4272: 'X86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\Jiran\Desktop\MIRO\x64\Debug\MIRO.exe : fatal error LNK1120: 18개의 확인할 수 없는 외부 참조입니다.
